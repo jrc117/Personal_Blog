@@ -7,7 +7,7 @@ math:
 license: 
 hidden: false
 comments: true
-draft: true
+draft: false
 ---
 
 I have been thinking a lot about redundancies today.
